@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recera de Cocina</title>
+</head>
+<body>
+
+<!-- EJERCICIO 3 -->
+    <h2>Ejercicio 3: Lista de Compras Personalizada</h2>
+    <!-- Comienza desde la C (start="3") en mayúsculas (type="A") -->
+    <ol type="A" start="3">
+        <li>Laptop nueva</li>
+        <li>Monitor extra</li>
+        <li>Teclado mecánico</li>
+        <li>Ratón inalámbrico</li>
+        <li>Cuaderno de apuntes</li>
+    </ol>
+
+
+
+
+
+    
+</body>
+</html>
+
